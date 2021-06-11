@@ -24,4 +24,8 @@ html {
 }
 html, body {
     height: 100%;
+    background: linear-gradient(to right top, $turquoise, $green);
+}
+a{
+    text-decoration:none
 }
